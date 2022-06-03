@@ -1,2 +1,2 @@
 # TDDHashTable
-Build hash table with python with TDD
+Build hash table in python with TDD
